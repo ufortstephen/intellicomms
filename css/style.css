@@ -807,7 +807,7 @@ ul.btn li:last-child {
 /** contact section **/
 
 .contact {
-    background: url(../images/contact_g.jpg);
+    /* background: url(../images/contact_g.jpg); */
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 90px 0;
@@ -1037,7 +1037,8 @@ ul.social_icon li a:hover {
 }
 
 .contact_page .contact {
-    margin-top: 90px;
+    /* margin-top: 90px; */
+    background: url(../images/footer.jpg);
 }
 
 
